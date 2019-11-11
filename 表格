@@ -1,0 +1,22 @@
+<!--列表格-->
+<table>
+    <tr>
+        <td>25</td>
+        <td>25</td>  
+    </tr>
+    <tr>
+        <td>23</td>
+        <td>23</td> 
+    </tr>
+</table>
+<!--表格写标题-->
+<table>
+    <tr>
+        <th>日期</th>
+        <th>金额</th>   
+    </tr>
+    <tr>
+        <td>10月1日</td>
+        <td>23</td>
+    </tr>
+</table>

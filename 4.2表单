@@ -1,0 +1,8 @@
+<!--创建一个空白框-->
+<input type="text" name="username" maxlength="30"/>
+<!--（1）当input标签的type特性的值为text时，会出现一个单行的输入框，你可在其中输入文本。默认宽度为 20 个字符。（2）当用户输入信息时，服务器需要知道每条数据被输入到了哪儿，所以需要一个name属性，但是这个属性是可选的，你可以写也可以不写（3）maxlength特性是用来限制用户在文本区域输入字符的数量-->
+
+<!--创建表单-->
+<label>登录名：</label>
+<input type="text" name="username" maxlength="30"/>
+<!--一个input元素一般情况下都会有type属性，其他所有属性都是可选的-->

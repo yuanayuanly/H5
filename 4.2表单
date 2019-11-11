@@ -6,3 +6,8 @@
 <label>登录名：</label>
 <input type="text" name="username" maxlength="30"/>
 <!--一个input元素一般情况下都会有type属性，其他所有属性都是可选的-->
+
+<!--密码框-->
+<br /><!--换行符-->
+<label>密码：</label>
+<input type="password" name="password" maxlength="30"/>

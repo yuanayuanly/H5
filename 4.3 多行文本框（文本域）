@@ -1,0 +1,14 @@
+<!--可以容纳很多行文字的文本框就是多行文本框，即文本域-->
+<!--创建多行文本框用元素<textarea>......</textarea>-->
+<!--中间......的部分就是这个文本框里预设的内容-->
+<textarea>请输入你的评价</textarea>
+<!--创建空白文本域-->
+<textarea></textarea>
+<!--调整文本框的大小-->
+<textarea name="comments" cols="90" rows="8">请留下你的评价</textarea>
+<!--（1）cols特性指定文本域有多宽（2）rows特性指定文本域在纵向上占据的行数-->
+<!--还可以在文本域前面加个信息提示用户-->
+</br>
+<label>评价商品：</label>
+</br>
+<textarea name="comments" cols="90" rows="8">请留下你的评价</textarea>
